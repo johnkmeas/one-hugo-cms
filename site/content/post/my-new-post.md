@@ -1,7 +1,9 @@
 ---
 title: Holy shit it works
 date: 2017-10-10T08:57:18.351Z
-description: need a blurb
+description: >-
+  Consectetur adipisicing elit, sed do eiusmo tempor incididunt ut labore et
+  dolore magna aliqua. Ut enim ad.
 image: /img/art.jpg
 ---
 ## Lorem ipsum dolor sit amet
