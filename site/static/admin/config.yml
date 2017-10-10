@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: johnkmeas/hugo-restaurant-tutorial
+  repo: johnkmeas/one-hugo-cms
  # Path to your Github repository
   branch: master # Branch to update
 
